@@ -23,6 +23,8 @@ creator:
     - http://en.wikipedia.org/wiki/Frederik_Pohl
     - http://www.gutenberg.org/ebooks/author/46565
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29503#The-Hated
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2009-07-24'
 gutenberg_type: Text
